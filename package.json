@@ -1,0 +1,16 @@
+{
+  "name": "calvindn.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/calvinDN/calvindn.com.git",
+  "author": "Calvin Nichols <calvindn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinDN/calvindn.com/issues"
+  },
+  "homepage": "https://github.com/calvinDN/calvindn.com#readme"
+}
